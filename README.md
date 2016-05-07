@@ -1,10 +1,10 @@
 # MYSQL_ORM_Genrator
-genrate MYSQL form class model class daigrame
+genrate MYSQL form any class model like next input format .  
 	class may have inhertance and associations, 
-	ORM map to 
-				1.Single Table
-				2.Concreate Table
-				3.Each class Table
+	ORM map to   
+				1.Single Table  
+				2.Concreate Table  
+				3.Each class Table  
 
 ## input example 
 
